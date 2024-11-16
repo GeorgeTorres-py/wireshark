@@ -6,3 +6,9 @@ Capture Traffic:
 Select the Right Interface: Choose the correct network interface for capturing traffic (e.g., Ethernet, Wi-Fi).
 Start Capturing: Click on the interface and select "Start capturing packets."
 Use Capture Filters: To limit the data captured, use capture filters (e.g., tcp, udp, port 80).
+
+Stop the capture when you have enough data.
+Save the capture file in a format like .pcap for later analysis.
+
+Use Display Filters: Refine what you see by applying display filters (e.g., http, ip.addr == 192.168.1.1).
+Follow Streams: For protocols like HTTP, right-click on a packet and select "Follow" > "TCP Stream" to see the full conversation

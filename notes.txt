@@ -1,0 +1,8 @@
+What is Wireshark?: It's a network protocol analyzer that captures and displays packet data traveling over a network.
+
+Common Use Cases: Troubleshooting network issues, analyzing traffic, and inspecting protocols.
+
+Capture Traffic:
+Select the Right Interface: Choose the correct network interface for capturing traffic (e.g., Ethernet, Wi-Fi).
+Start Capturing: Click on the interface and select "Start capturing packets."
+Use Capture Filters: To limit the data captured, use capture filters (e.g., tcp, udp, port 80).
